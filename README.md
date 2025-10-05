@@ -7,7 +7,7 @@
 - 🎓 I'm an Informatics Engineering student  
 - 📚 In my free time, I enjoy reading, gaming, tech experimenting, and playing sports  
 - 🏸 Especially love badminton and football ⚽  
-- 🌱 Currently improving my skills in back-end development and data-related fields
+- 🌱 Currently improving my skills in backend development and data-related fields
 
 ---
 
