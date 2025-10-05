@@ -36,14 +36,5 @@
 
 ---
 
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Wickleyy&theme=tokyonight&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</p>
-
----
-
-
 Thanks for visiting my profile! 🙌  
 Feel free to explore my repositories and connect with me.
