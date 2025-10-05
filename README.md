@@ -32,7 +32,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wickleyy&show_icons=true&theme=tokyonight" alt="Wickleyy's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wickleyy&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/?user=Wickleyy&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
