@@ -7,7 +7,7 @@
 - 🎓 I'm an Informatics Engineering student  
 - 📚 In my free time, I enjoy reading, gaming, tech experimenting, and playing sports  
 - 🏸 Especially love badminton and football ⚽  
-- 🌱 Currently improving my skills in full-stack development and data-related fields
+- 🌱 Currently improving my skills in back-end development and data-related fields
 
 ---
 
@@ -32,6 +32,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wickleyy&show_icons=true&theme=tokyonight" alt="Wickleyy's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wickleyy&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=Wickleyy&theme=tokyonight" alt="Wickleyy's GitHub Streak" />
 </p>
 
 ---
