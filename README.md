@@ -1,40 +1,69 @@
 <h1 align="center">Hi 👋, I'm Thariq Fadhlurrahman</h1>
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 I'm an Informatics Engineering student  
-- 📚 In my free time, I enjoy reading, gaming, tech experimenting, and playing sports  
-- 🏸 Especially love badminton and football ⚽  
-- 🌱 Currently improving my skills in backend development and data-related fields
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="SQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" alt="VS Code" />
-</p>
-
----
-
-### 📈 GitHub Stats
+<h3 align="center">🚀 Informatics Engineering Student | Backend & Data Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wickleyy&show_icons=true&theme=tokyonight" alt="Wickleyy's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wickleyy&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Future+AI+Engineer;Backend+Developer;Data+Science+Explorer;Always+Learning+New+Things" />
 </p>
 
 ---
 
-Thanks for visiting my profile! 🙌  
-Feel free to explore my repositories and connect with me.
+## 👨‍💻 About Me
+
+- 🎓 Informatics Engineering Student  
+- 🌱 Currently learning **Backend Development & Data Science**  
+- 🧠 Interested in AI, Machine Learning, and System Design  
+- 📚 Love reading books about technology & finance  
+- 🏸 Badminton enthusiast & ⚽ football enjoyer  
+- 🎯 Goal: Becoming a highly skilled AI Engineer with strong leadership mindset  
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,php,javascript,dart" />
+</p>
+
+### 🌐 Web & App Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,flutter" />
+</p>
+
+### 🗄️ Database & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,vscode,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Wickleyy&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wickleyy&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Wickleyy&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Wickleyy">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ✨ "Consistency beats motivation." ✨
+</p>
